@@ -4,5 +4,5 @@ scipy==1.1.0
 cython==0.29
 pytest==3.9.1
 wheel==0.32.1
-wheelhouse_uploader
+wheelhouse_uploader==0.10.1
 pillow
