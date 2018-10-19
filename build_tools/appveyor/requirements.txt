@@ -2,7 +2,7 @@ numpy==1.15.2
 scipy==1.1.0
 # Pin Cython to avoid bug with 0.28.x on Python 3.7 
 cython==0.29
-pytest
+pytest==3.9.1
 wheel
 wheelhouse_uploader
 pillow
