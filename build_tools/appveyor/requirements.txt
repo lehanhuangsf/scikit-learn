@@ -1,4 +1,4 @@
-numpy
+numpy==1.15.2
 scipy
 # Pin Cython to avoid bug with 0.28.x on Python 3.7 
 cython==0.27.3
